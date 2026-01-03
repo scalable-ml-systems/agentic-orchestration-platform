@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentic Workflow Orchestration Platform for AI Tasks
 
 ## Overview
@@ -32,6 +33,8 @@ to ensure a deep understanding of these principles.
 
 ## Architecture Overview
 
+```
+
 User Request
 ↓
 ┌───────────────────────────┐
@@ -57,8 +60,10 @@ User Request
 ↓
 Final Output
 
+```
 ## Repository Structure
 
+```
 agentic-orchestration-platform/
 │
 ├── orchestrator/ # Workflow engine and state management
@@ -69,7 +74,7 @@ agentic-orchestration-platform/
 ├── README.md
 └── requirements.txt
 
-
+```
 ---
 
 ## Project Roadmap
@@ -112,3 +117,7 @@ and control are more important than raw model accuracy.
 
 🚧 In active development — starting with a pure Python orchestration engine.
 
+=======
+# agentic-orchestration-platform
+Stateful orchestration platform for reliable agentic AI workflows
+>>>>>>> 75f551bfc3810e659005789ef81ab596cf14c8eb
