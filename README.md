@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Agentic Workflow Orchestration Platform for AI Tasks
 
 ## Overview
@@ -112,12 +111,3 @@ It reflects real-world AI infrastructure challenges where correctness, debuggabi
 and control are more important than raw model accuracy.
 
 ---
-
-## Status
-
-🚧 In active development — starting with a pure Python orchestration engine.
-
-=======
-# agentic-orchestration-platform
-Stateful orchestration platform for reliable agentic AI workflows
->>>>>>> 75f551bfc3810e659005789ef81ab596cf14c8eb
